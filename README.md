@@ -1,6 +1,6 @@
 # adPasswordReminder
 
-adPassswordReminder.vbs es una pequeña utilidad que recorreo todas las cuentas de usuario del directorio activo, enviando un correo electrónico de aviso de caducidad de contraseña a todos aquellos usuarios que cumplan los criterios de caducidad.
+adPassswordReminder.vbs es una pequeña utilidad que recorre todas las cuentas de usuario del directorio activo, enviando un correo electrónico de aviso de caducidad de contraseña a todos aquellos usuarios que cumplan los criterios de caducidad.
 
 ## Funcionamiento
 
